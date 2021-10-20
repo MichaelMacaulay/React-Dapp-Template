@@ -4,4 +4,3 @@ This project is a template using React, Hardhat, Ethers.js, Solidity, and Tailwi
 
 Everything is pre-configured so you can start building as fast as possible.
 
-Feeling generous? Send a tip to micmac.eth
